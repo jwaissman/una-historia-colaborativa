@@ -1,3 +1,3 @@
 # Una Historia colaborativa
 
-Vamos a construir una historia colaborativa entre todos
+Erase una vez un rey de chocolate con nariz de cacahuate, ...
